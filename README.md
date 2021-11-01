@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Basic Sample Hardhat Project
 =======
 # Full Stack dApps with React, Ethers.js, Solidity, and Hardhat
