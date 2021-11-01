@@ -1,3 +1,5 @@
+# Full Stack dApps with React, Ethers.js, Solidity, and Hardhat
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
