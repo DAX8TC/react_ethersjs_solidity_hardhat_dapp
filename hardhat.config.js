@@ -39,8 +39,10 @@ module.exports = {
      ropsten: {
        //url: "https://ropsten.infura.io/v3/projectid",
        url: "https://ropsten.infura.io/v3/7e38012c4dc5453fb5db9a07724f3415",
-       accounts: ["0x${process.env.ACCOUNT_KEY}"]
-     }/*,
+       //accounts: ["0x${process.env.ACCOUNT_KEY}"]
+       accounts: ["0x4e92fcce934a4e1e8d39689d4be6e156b55bae0e84a46a1d4b9287a8b32ab115"]
+       // DONT COMMIT TO GITHUB
+      }/*,
      rinkeby: {
        url: "https://rinkeby.infura.io/v3/projectid",
        accounts: [process.env.ACCOUNT_KEY]
